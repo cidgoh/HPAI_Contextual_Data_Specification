@@ -52,7 +52,7 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 
 #### Data Collection Template
 - [Pathogen Genomics Package (**HPAI**)](https://github.com/cidgoh/pathogen-genomics-package/releases)
-  - Template schema files can be found as a `.yaml` under [pathogen-genomics-package/templates/HPAI](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates)
+  - Template schema files can be found as a `.yaml` under [pathogen-genomics-package/templates/HPAI](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates/hpai)
 - [DataHarmonizer App](https://github.com/cidgoh/DataHarmonizer)
   - The DataHarmonizer is a standardized browser-based spreadsheet editor and validator.
   - Instructions on "Getting Started" downloading and using the application can be found under **DataHarmonizer Instructions and SOP** below.
